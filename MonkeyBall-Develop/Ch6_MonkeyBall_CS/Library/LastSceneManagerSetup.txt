@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Alejandro Isaza.unity
+- path: Assets/Scenes/MonkeyBall.unity
   isLoaded: 1
   isActive: 1
